@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.58064516129032" branch-rate="0" lines-covered="18" lines-valid="31" branches-covered="0" branches-valid="0" complexity="18" version="0.4" timestamp="1705025086">
+<coverage line-rate="0.36734693877551" branch-rate="0" lines-covered="18" lines-valid="49" branches-covered="0" branches-valid="0" complexity="26" version="0.4" timestamp="1705029414">
   <sources>
     <source>/var/www/html/app</source>
   </sources>
@@ -47,11 +47,145 @@
         </class>
       </classes>
     </package>
+    <package name="Http/Controllers/Auth/ConfirmPasswordController.php" line-rate="0" branch-rate="0" complexity="1">
+      <classes>
+        <class name="App\Http\Controllers\Auth\ConfirmPasswordController" filename="Http/Controllers/Auth/ConfirmPasswordController.php" line-rate="0" branch-rate="0" complexity="1">
+          <methods>
+            <method name="__construct" signature="" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="38" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="38" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Controllers/Auth/ForgotPasswordController.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Controllers\Auth\ForgotPasswordController" filename="Http/Controllers/Auth/ForgotPasswordController.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Controllers/Auth/LoginController.php" line-rate="0" branch-rate="0" complexity="1">
+      <classes>
+        <class name="App\Http\Controllers\Auth\LoginController" filename="Http/Controllers/Auth/LoginController.php" line-rate="0" branch-rate="0" complexity="1">
+          <methods>
+            <method name="__construct" signature="" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="38" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="38" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Controllers/Auth/RegisterController.php" line-rate="0" branch-rate="0" complexity="3">
+      <classes>
+        <class name="App\Http\Controllers\Auth\RegisterController" filename="Http/Controllers/Auth/RegisterController.php" line-rate="0" branch-rate="0" complexity="3">
+          <methods>
+            <method name="__construct" signature="" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="41" hits="0"/>
+              </lines>
+            </method>
+            <method name="validator" signature="array $data" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="51" hits="0"/>
+                <line number="52" hits="0"/>
+                <line number="53" hits="0"/>
+                <line number="54" hits="0"/>
+                <line number="55" hits="0"/>
+              </lines>
+            </method>
+            <method name="create" signature="array $data" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="65" hits="0"/>
+                <line number="66" hits="0"/>
+                <line number="67" hits="0"/>
+                <line number="68" hits="0"/>
+                <line number="69" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="41" hits="0"/>
+            <line number="51" hits="0"/>
+            <line number="52" hits="0"/>
+            <line number="53" hits="0"/>
+            <line number="54" hits="0"/>
+            <line number="55" hits="0"/>
+            <line number="65" hits="0"/>
+            <line number="66" hits="0"/>
+            <line number="67" hits="0"/>
+            <line number="68" hits="0"/>
+            <line number="69" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Controllers/Auth/ResetPasswordController.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Controllers\Auth\ResetPasswordController" filename="Http/Controllers/Auth/ResetPasswordController.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Controllers/Auth/VerificationController.php" line-rate="0" branch-rate="0" complexity="1">
+      <classes>
+        <class name="App\Http\Controllers\Auth\VerificationController" filename="Http/Controllers/Auth/VerificationController.php" line-rate="0" branch-rate="0" complexity="1">
+          <methods>
+            <method name="__construct" signature="" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="38" hits="0"/>
+                <line number="39" hits="0"/>
+                <line number="40" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="38" hits="0"/>
+            <line number="39" hits="0"/>
+            <line number="40" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
     <package name="Http/Controllers/Controller.php" line-rate="0" branch-rate="0" complexity="0">
       <classes>
         <class name="App\Http\Controllers\Controller" filename="Http/Controllers/Controller.php" line-rate="0" branch-rate="0" complexity="0">
           <methods/>
           <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Controllers/HomeController.php" line-rate="0" branch-rate="0" complexity="2">
+      <classes>
+        <class name="App\Http\Controllers\HomeController" filename="Http/Controllers/HomeController.php" line-rate="0" branch-rate="0" complexity="2">
+          <methods>
+            <method name="__construct" signature="" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="14" hits="0"/>
+              </lines>
+            </method>
+            <method name="index" signature="" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="24" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="0"/>
+            <line number="24" hits="0"/>
+          </lines>
         </class>
       </classes>
     </package>
