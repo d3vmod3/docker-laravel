@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.58064516129032" branch-rate="0" lines-covered="18" lines-valid="31" branches-covered="0" branches-valid="0" complexity="18" version="0.4" timestamp="1705025086">
+  <sources>
+    <source>/var/www/html/app</source>
+  </sources>
+  <packages>
+    <package name="Console/Kernel.php" line-rate="0.66666666666667" branch-rate="0" complexity="2">
+      <classes>
+        <class name="App\Console\Kernel" filename="Console/Kernel.php" line-rate="0.66666666666667" branch-rate="0" complexity="2">
+          <methods>
+            <method name="schedule" signature="Illuminate\Console\Scheduling\Schedule $schedule" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="16" hits="0"/>
+              </lines>
+            </method>
+            <method name="commands" signature="" line-rate="1" branch-rate="0" complexity="1">
+              <lines>
+                <line number="23" hits="1"/>
+                <line number="25" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="0"/>
+            <line number="23" hits="1"/>
+            <line number="25" hits="1"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Exceptions/Handler.php" line-rate="1" branch-rate="0" complexity="1">
+      <classes>
+        <class name="App\Exceptions\Handler" filename="Exceptions/Handler.php" line-rate="1" branch-rate="0" complexity="1">
+          <methods>
+            <method name="register" signature="" line-rate="1" branch-rate="0" complexity="1">
+              <lines>
+                <line number="26" hits="1"/>
+                <line number="28" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="26" hits="1"/>
+            <line number="28" hits="1"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Controllers/Controller.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Controllers\Controller" filename="Http/Controllers/Controller.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Kernel.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Kernel" filename="Http/Kernel.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Middleware/Authenticate.php" line-rate="0" branch-rate="0" complexity="2">
+      <classes>
+        <class name="App\Http\Middleware\Authenticate" filename="Http/Middleware/Authenticate.php" line-rate="0" branch-rate="0" complexity="2">
+          <methods>
+            <method name="redirectTo" signature="Illuminate\Http\Request $request" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="15" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Middleware/EncryptCookies.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Middleware\EncryptCookies" filename="Http/Middleware/EncryptCookies.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Middleware/PreventRequestsDuringMaintenance.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Middleware\PreventRequestsDuringMaintenance" filename="Http/Middleware/PreventRequestsDuringMaintenance.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Middleware/RedirectIfAuthenticated.php" line-rate="0" branch-rate="0" complexity="4">
+      <classes>
+        <class name="App\Http\Middleware\RedirectIfAuthenticated" filename="Http/Middleware/RedirectIfAuthenticated.php" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="handle" signature="Illuminate\Http\Request $request, Closure $next, string $guards" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="20" hits="0"/>
+                <line number="22" hits="0"/>
+                <line number="23" hits="0"/>
+                <line number="24" hits="0"/>
+                <line number="28" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="20" hits="0"/>
+            <line number="22" hits="0"/>
+            <line number="23" hits="0"/>
+            <line number="24" hits="0"/>
+            <line number="28" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Middleware/TrimStrings.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Middleware\TrimStrings" filename="Http/Middleware/TrimStrings.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Middleware/TrustHosts.php" line-rate="0" branch-rate="0" complexity="1">
+      <classes>
+        <class name="App\Http\Middleware\TrustHosts" filename="Http/Middleware/TrustHosts.php" line-rate="0" branch-rate="0" complexity="1">
+          <methods>
+            <method name="hosts" signature="" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="16" hits="0"/>
+                <line number="17" hits="0"/>
+                <line number="18" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="0"/>
+            <line number="17" hits="0"/>
+            <line number="18" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Middleware/TrustProxies.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Middleware\TrustProxies" filename="Http/Middleware/TrustProxies.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Middleware/ValidateSignature.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Middleware\ValidateSignature" filename="Http/Middleware/ValidateSignature.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Http/Middleware/VerifyCsrfToken.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Http\Middleware\VerifyCsrfToken" filename="Http/Middleware/VerifyCsrfToken.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Models/User.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Models\User" filename="Models/User.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="Providers/AppServiceProvider.php" line-rate="1" branch-rate="0" complexity="2">
+      <classes>
+        <class name="App\Providers\AppServiceProvider" filename="Providers/AppServiceProvider.php" line-rate="1" branch-rate="0" complexity="2">
+          <methods>
+            <method name="register" signature="" line-rate="1" branch-rate="0" complexity="1">
+              <lines>
+                <line number="15" hits="1"/>
+              </lines>
+            </method>
+            <method name="boot" signature="" line-rate="1" branch-rate="0" complexity="1">
+              <lines>
+                <line number="23" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="1"/>
+            <line number="23" hits="1"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Providers/AuthServiceProvider.php" line-rate="1" branch-rate="0" complexity="1">
+      <classes>
+        <class name="App\Providers\AuthServiceProvider" filename="Providers/AuthServiceProvider.php" line-rate="1" branch-rate="0" complexity="1">
+          <methods>
+            <method name="boot" signature="" line-rate="1" branch-rate="0" complexity="1">
+              <lines>
+                <line number="25" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="25" hits="1"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Providers/BroadcastServiceProvider.php" line-rate="0" branch-rate="0" complexity="1">
+      <classes>
+        <class name="App\Providers\BroadcastServiceProvider" filename="Providers/BroadcastServiceProvider.php" line-rate="0" branch-rate="0" complexity="1">
+          <methods>
+            <method name="boot" signature="" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="15" hits="0"/>
+                <line number="17" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0"/>
+            <line number="17" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Providers/EventServiceProvider.php" line-rate="1" branch-rate="0" complexity="2">
+      <classes>
+        <class name="App\Providers\EventServiceProvider" filename="Providers/EventServiceProvider.php" line-rate="1" branch-rate="0" complexity="2">
+          <methods>
+            <method name="boot" signature="" line-rate="1" branch-rate="0" complexity="1">
+              <lines>
+                <line number="29" hits="1"/>
+              </lines>
+            </method>
+            <method name="shouldDiscoverEvents" signature="" line-rate="1" branch-rate="0" complexity="1">
+              <lines>
+                <line number="36" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="29" hits="1"/>
+            <line number="36" hits="1"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Providers/RouteServiceProvider.php" line-rate="0.9" branch-rate="0" complexity="2">
+      <classes>
+        <class name="App\Providers\RouteServiceProvider" filename="Providers/RouteServiceProvider.php" line-rate="0.9" branch-rate="0" complexity="2">
+          <methods>
+            <method name="boot" signature="" line-rate="0.9" branch-rate="0" complexity="2">
+              <lines>
+                <line number="27" hits="1"/>
+                <line number="28" hits="0"/>
+                <line number="29" hits="1"/>
+                <line number="31" hits="1"/>
+                <line number="32" hits="1"/>
+                <line number="33" hits="1"/>
+                <line number="34" hits="1"/>
+                <line number="36" hits="1"/>
+                <line number="37" hits="1"/>
+                <line number="38" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="27" hits="1"/>
+            <line number="28" hits="0"/>
+            <line number="29" hits="1"/>
+            <line number="31" hits="1"/>
+            <line number="32" hits="1"/>
+            <line number="33" hits="1"/>
+            <line number="34" hits="1"/>
+            <line number="36" hits="1"/>
+            <line number="37" hits="1"/>
+            <line number="38" hits="1"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

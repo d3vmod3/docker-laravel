@@ -1,0 +1,22 @@
+
+
+Code Coverage Report:    
+  2024-01-12 02:04:46    
+                         
+ Summary:                
+  Classes: 40.00% (4/10) 
+  Methods: 53.85% (7/13) 
+  Lines:   58.06% (18/31)
+
+App\Console\Kernel
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+App\Exceptions\Handler
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+App\Providers\AppServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+App\Providers\AuthServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Providers\EventServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+App\Providers\RouteServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  90.00% (  9/ 10)

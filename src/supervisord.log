@@ -1,0 +1,1009 @@
+2024-01-12 01:55:27,231 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:55:27,233 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,233 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:55:27,233 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,233 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,233 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,234 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,234 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,234 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,234 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,234 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,234 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,234 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,233 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,235 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,235 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,235 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,235 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,235 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,235 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,235 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,235 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,245 INFO supervisord started with pid 1
+2024-01-12 01:55:27,246 INFO supervisord started with pid 1
+2024-01-12 01:55:27,467 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,468 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,470 INFO supervisord started with pid 1
+2024-01-12 01:55:27,583 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:55:27,583 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,583 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,583 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,583 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,583 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,583 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,583 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,583 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,584 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,584 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:55:27,587 INFO supervisord started with pid 1
+2024-01-12 01:55:28,249 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:55:28,249 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:55:28,251 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:55:28,252 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:55:28,253 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:55:28,254 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:55:28,256 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:55:28,257 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:55:28,260 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:55:28,260 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:55:28,262 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:55:28,263 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:55:28,266 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:55:28,287 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:55:28,288 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:55:28,313 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:55:28,316 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:55:28,413 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:55:28,475 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:55:28,482 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:55:28,513 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:55:28,494 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:55:28,777 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:55:28,583 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:55:28,785 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:55:28,592 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:55:28,803 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:55:28,963 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:55:28,894 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:55:29,015 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:55:29,088 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:55:29,163 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:55:29,168 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:55:29,169 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:55:29,266 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:55:29,290 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:55:29,563 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:55:29,489 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:55:29,664 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:55:29,694 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:55:29,883 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,883 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,883 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,884 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,884 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,884 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,884 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,884 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,884 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,884 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,890 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:29,980 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:55:30,091 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:55:30,189 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:55:30,219 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,220 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,220 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,220 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,220 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,220 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,220 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,220 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,220 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,220 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,221 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,282 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:55:30,369 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,369 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,370 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,370 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,370 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,370 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,371 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,371 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,371 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,372 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,579 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,580 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,581 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,588 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,589 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:30,590 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:31,470 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:31,593 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:31,594 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:31,594 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:31,595 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:55:31,595 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:25,961 WARN received SIGQUIT indicating exit request
+2024-01-12 01:57:25,963 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 01:57:25,964 WARN received SIGQUIT indicating exit request
+2024-01-12 01:57:25,965 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 01:57:25,973 INFO stopped: php-fpm (exit status 0)
+2024-01-12 01:57:25,975 INFO stopped: php-fpm (exit status 0)
+2024-01-12 01:57:25,978 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 01:57:25,979 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 01:57:25,980 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 01:57:25,981 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 01:57:25,982 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 01:57:25,984 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 01:57:25,982 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 01:57:25,985 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 01:57:25,985 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 01:57:25,985 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 01:57:25,985 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 01:57:25,985 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 01:57:25,985 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 01:57:25,986 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 01:57:25,985 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 01:57:25,986 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 01:57:25,986 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 01:57:25,986 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 01:57:25,987 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 01:57:25,987 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 01:57:26,370 WARN received SIGQUIT indicating exit request
+2024-01-12 01:57:26,373 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 01:57:26,385 INFO stopped: php-fpm (exit status 0)
+2024-01-12 01:57:26,389 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 01:57:26,391 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 01:57:26,393 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 01:57:26,394 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 01:57:26,394 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 01:57:26,394 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 01:57:26,394 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 01:57:26,394 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 01:57:26,394 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 01:57:26,396 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 01:57:26,421 WARN received SIGQUIT indicating exit request
+2024-01-12 01:57:26,422 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 01:57:26,430 INFO stopped: php-fpm (exit status 0)
+2024-01-12 01:57:26,436 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 01:57:26,436 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 01:57:26,436 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 01:57:26,436 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 01:57:26,436 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 01:57:26,437 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 01:57:26,437 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 01:57:26,437 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 01:57:26,437 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 01:57:26,437 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 01:57:39,299 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,299 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,299 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,299 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,299 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,300 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,300 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,300 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,300 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,300 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,306 INFO supervisord started with pid 1
+2024-01-12 01:57:39,806 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,806 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,806 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,807 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,807 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,807 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,808 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,808 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,808 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,808 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,817 INFO supervisord started with pid 1
+2024-01-12 01:57:39,859 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:57:39,883 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,885 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,885 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,885 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,887 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,887 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,887 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,888 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,888 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,888 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:39,897 INFO supervisord started with pid 1
+2024-01-12 01:57:40,311 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:57:40,337 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:57:40,347 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:57:40,358 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:57:40,362 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:57:40,370 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:57:40,379 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:57:40,393 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:57:40,469 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:57:40,481 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:57:40,487 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:57:40,611 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:57:40,613 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,613 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,614 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,614 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,614 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,614 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,614 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,615 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,615 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,615 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,625 INFO supervisord started with pid 1
+2024-01-12 01:57:40,687 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:57:40,687 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,688 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,688 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,688 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,689 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,689 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,689 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,689 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,690 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,690 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:40,695 INFO supervisord started with pid 1
+2024-01-12 01:57:40,834 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:57:40,851 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:57:40,853 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:57:40,855 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:57:40,862 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:57:40,864 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:57:40,867 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:57:40,878 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:57:40,884 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:57:40,891 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:57:40,908 INFO spawned: 'laravel-worker_00' with pid 8
+2024-01-12 01:57:40,913 INFO spawned: 'laravel-worker_01' with pid 9
+2024-01-12 01:57:40,915 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:57:40,920 INFO spawned: 'laravel-worker_02' with pid 10
+2024-01-12 01:57:40,997 INFO spawned: 'laravel-worker_03' with pid 11
+2024-01-12 01:57:41,012 INFO spawned: 'laravel-worker_04' with pid 12
+2024-01-12 01:57:41,082 INFO spawned: 'laravel-worker_05' with pid 13
+2024-01-12 01:57:41,085 INFO spawned: 'laravel-worker_06' with pid 14
+2024-01-12 01:57:41,097 INFO spawned: 'laravel-worker_07' with pid 15
+2024-01-12 01:57:41,181 INFO spawned: 'laravel-worker_08' with pid 16
+2024-01-12 01:57:41,185 INFO spawned: 'laravel-worker_09' with pid 17
+2024-01-12 01:57:41,182 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:57:41,194 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,196 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,201 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,280 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,281 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,281 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,281 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,281 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,281 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,282 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,289 INFO spawned: 'php-fpm' with pid 18
+2024-01-12 01:57:41,290 INFO supervisord started with pid 1
+2024-01-12 01:57:41,480 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:57:41,480 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,480 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,480 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,481 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,481 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,486 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,487 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,487 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,487 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,488 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,500 INFO supervisord started with pid 1
+2024-01-12 01:57:41,545 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,547 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,553 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,558 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,560 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,563 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,563 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,564 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,567 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,567 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,568 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:41,628 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:57:41,643 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:57:41,649 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:57:41,651 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:57:41,653 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:57:41,697 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:57:41,702 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:57:41,707 INFO spawned: 'laravel-worker_00' with pid 8
+2024-01-12 01:57:41,709 INFO spawned: 'laravel-worker_01' with pid 9
+2024-01-12 01:57:41,712 INFO spawned: 'laravel-worker_02' with pid 10
+2024-01-12 01:57:41,717 INFO spawned: 'laravel-worker_03' with pid 11
+2024-01-12 01:57:41,799 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:57:41,802 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:57:41,901 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:57:41,908 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:57:41,909 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,822 INFO spawned: 'laravel-worker_04' with pid 12
+2024-01-12 01:57:41,909 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,912 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,913 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,913 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,913 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,913 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,913 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,913 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,913 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:41,909 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:57:41,922 INFO supervisord started with pid 1
+2024-01-12 01:57:42,005 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:57:42,005 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,006 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,006 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,006 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,006 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,006 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,007 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,008 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,009 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,009 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,012 INFO supervisord started with pid 1
+2024-01-12 01:57:41,962 INFO spawned: 'laravel-worker_05' with pid 13
+2024-01-12 01:57:42,031 INFO spawned: 'laravel-worker_06' with pid 14
+2024-01-12 01:57:42,035 INFO spawned: 'laravel-worker_07' with pid 15
+2024-01-12 01:57:42,106 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,251 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,251 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,252 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,252 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,252 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,252 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,253 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,125 INFO spawned: 'laravel-worker_08' with pid 16
+2024-01-12 01:57:42,322 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:57:42,337 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:57:42,254 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,368 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,324 INFO spawned: 'laravel-worker_09' with pid 17
+2024-01-12 01:57:42,425 INFO spawned: 'php-fpm' with pid 18
+2024-01-12 01:57:42,366 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:57:42,371 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,455 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:57:42,474 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 01:57:42,474 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,475 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,475 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,475 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,477 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,478 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,480 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,480 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,485 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,487 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 01:57:42,507 INFO spawned: 'laravel-worker_00' with pid 6
+2024-01-12 01:57:42,513 INFO spawned: 'laravel-worker_01' with pid 7
+2024-01-12 01:57:42,515 INFO spawned: 'laravel-worker_02' with pid 8
+2024-01-12 01:57:42,518 INFO spawned: 'laravel-worker_03' with pid 9
+2024-01-12 01:57:42,527 INFO spawned: 'laravel-worker_04' with pid 10
+2024-01-12 01:57:42,531 INFO spawned: 'laravel-worker_05' with pid 11
+2024-01-12 01:57:42,468 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:57:42,579 INFO spawned: 'laravel-worker_06' with pid 12
+2024-01-12 01:57:42,593 INFO spawned: 'laravel-worker_07' with pid 13
+2024-01-12 01:57:42,581 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:57:42,602 INFO supervisord started with pid 1
+2024-01-12 01:57:42,680 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,699 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,700 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,706 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,707 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,708 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,708 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,685 INFO spawned: 'laravel-worker_08' with pid 14
+2024-01-12 01:57:42,709 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,716 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,716 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,717 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,758 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:57:42,827 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,829 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,833 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,842 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,843 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:42,784 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:57:43,019 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:57:43,034 INFO spawned: 'laravel-worker_00' with pid 8
+2024-01-12 01:57:43,044 INFO spawned: 'laravel-worker_01' with pid 9
+2024-01-12 01:57:42,907 INFO spawned: 'laravel-worker_09' with pid 15
+2024-01-12 01:57:42,936 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,099 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,036 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:57:43,070 INFO spawned: 'laravel-worker_02' with pid 10
+2024-01-12 01:57:43,089 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:57:43,170 INFO spawned: 'laravel-worker_03' with pid 11
+2024-01-12 01:57:43,130 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,192 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,156 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:57:43,230 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,237 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,238 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,239 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,244 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,245 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,240 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:57:43,250 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,347 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,271 INFO spawned: 'laravel-worker_04' with pid 12
+2024-01-12 01:57:43,404 INFO spawned: 'laravel-worker_05' with pid 13
+2024-01-12 01:57:43,275 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:57:43,307 INFO spawned: 'php-fpm' with pid 16
+2024-01-12 01:57:43,348 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,353 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:57:43,515 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,569 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:43,504 INFO spawned: 'laravel-worker_06' with pid 14
+2024-01-12 01:57:43,573 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:57:43,700 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 01:57:43,724 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 01:57:43,734 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 01:57:43,740 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:57:43,713 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:57:43,918 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:57:43,780 INFO spawned: 'laravel-worker_07' with pid 15
+2024-01-12 01:57:43,904 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 01:57:43,957 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 01:57:43,996 INFO spawned: 'laravel-worker_08' with pid 16
+2024-01-12 01:57:44,113 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 01:57:44,044 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:57:44,196 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,197 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,181 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 01:57:44,193 INFO spawned: 'laravel-worker_09' with pid 17
+2024-01-12 01:57:44,222 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:57:44,296 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,300 INFO spawned: 'php-fpm' with pid 18
+2024-01-12 01:57:44,366 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,299 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,384 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,384 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,386 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,388 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,391 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,394 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,398 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,400 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,359 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:57:44,257 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 01:57:44,371 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,478 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,484 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,509 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,510 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,511 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,512 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,515 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,531 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,533 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,541 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:44,755 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 01:57:44,924 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 01:57:45,134 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 01:57:45,159 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,225 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,230 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,232 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,255 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,263 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,274 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,289 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,291 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,318 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,310 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,375 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,376 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,378 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,379 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,381 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,384 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,385 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,392 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,392 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,401 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:45,325 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,226 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,230 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,231 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,238 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,250 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,320 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,322 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,327 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,330 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,333 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 01:57:46,420 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:02,537 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:02,546 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:02,693 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:02,721 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:02,780 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:02,804 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:02,850 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:02,851 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:03,040 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:03,082 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:03,126 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:03,139 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:03,241 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:03,316 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:03,872 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:03,896 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:03,927 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:04,536 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:04,540 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:04,833 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:04,839 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:05,280 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:05,291 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:05,475 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:05,560 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:05,812 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:05,818 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:05,813 INFO waiting for laravel-worker_00, laravel-worker_02, laravel-worker_04 to die
+2024-01-12 02:04:06,068 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:06,075 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:06,069 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_09 to die
+2024-01-12 02:04:06,185 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:06,200 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:06,210 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:06,210 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:06,211 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:06,232 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:06,337 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:06,425 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:06,432 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:06,440 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:06,447 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:06,561 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:06,565 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:06,572 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:06,802 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:06,803 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:06,820 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:06,938 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:07,015 WARN received SIGQUIT indicating exit request
+2024-01-12 02:04:07,029 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09, php-fpm to die
+2024-01-12 02:04:07,096 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:07,149 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:07,252 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:07,451 INFO stopped: php-fpm (exit status 0)
+2024-01-12 02:04:07,491 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:08,776 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:08,564 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:09,356 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:09,434 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:09,551 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:09,552 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:09,552 INFO waiting for laravel-worker_00, laravel-worker_02, laravel-worker_03, laravel-worker_05, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:09,829 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:09,830 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:09,918 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:10,240 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:10,241 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:10,079 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:10,281 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:10,282 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:10,284 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:10,177 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08 to die
+2024-01-12 02:04:10,481 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_04, laravel-worker_05, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:10,209 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:10,331 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:10,506 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:10,378 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:10,569 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:10,590 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:10,679 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:10,695 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:10,696 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:10,766 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07 to die
+2024-01-12 02:04:10,876 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:10,877 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:10,769 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:11,464 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:10,781 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:11,472 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:10,744 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07, laravel-worker_08, laravel-worker_09 to die
+2024-01-12 02:04:11,067 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:11,551 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:11,304 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:11,552 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:11,672 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:11,806 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:11,811 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:11,810 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:11,811 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:11,812 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:11,812 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:11,812 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:11,814 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:11,814 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:11,814 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:11,814 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:11,833 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:11,834 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:11,834 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:11,909 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:12,000 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:12,001 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:12,002 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:12,022 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:12,129 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:12,217 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:12,223 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:12,229 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:12,327 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:12,421 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:12,426 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:12,437 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:12,256 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:12,460 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:12,468 WARN stopped: laravel-worker_04 (terminated by SIGTERM)
+2024-01-12 02:04:12,470 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:12,471 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:12,559 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:12,559 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:12,560 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_03 to die
+2024-01-12 02:04:12,562 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:12,562 WARN stopped: laravel-worker_01 (terminated by SIGTERM)
+2024-01-12 02:04:12,563 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:12,522 WARN stopped: laravel-worker_02 (terminated by SIGTERM)
+2024-01-12 02:04:12,617 WARN stopped: laravel-worker_00 (terminated by SIGTERM)
+2024-01-12 02:04:12,617 WARN stopped: laravel-worker_05 (terminated by SIGTERM)
+2024-01-12 02:04:12,617 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:12,733 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:12,734 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:12,736 WARN stopped: laravel-worker_03 (terminated by SIGTERM)
+2024-01-12 02:04:12,736 WARN stopped: laravel-worker_09 (terminated by SIGTERM)
+2024-01-12 02:04:12,819 WARN stopped: laravel-worker_07 (terminated by SIGTERM)
+2024-01-12 02:04:12,823 WARN stopped: laravel-worker_06 (terminated by SIGTERM)
+2024-01-12 02:04:13,740 WARN stopped: laravel-worker_08 (terminated by SIGTERM)
+2024-01-12 02:04:23,138 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,142 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,148 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,151 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,152 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,153 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,155 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,156 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,156 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,155 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,157 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,157 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,156 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,158 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,158 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,159 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,159 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,160 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,160 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,160 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,173 INFO supervisord started with pid 1
+2024-01-12 02:04:23,181 INFO supervisord started with pid 1
+2024-01-12 02:04:23,499 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 02:04:23,499 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,499 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,500 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,501 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,502 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,502 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,503 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,503 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,503 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,503 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,559 INFO supervisord started with pid 1
+2024-01-12 02:04:23,576 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 02:04:23,576 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,578 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,578 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,579 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,579 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,580 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,580 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,580 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,580 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,581 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:23,589 INFO supervisord started with pid 1
+2024-01-12 02:04:24,194 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 02:04:24,195 INFO spawned: 'laravel-worker_00' with pid 8
+2024-01-12 02:04:24,198 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 02:04:24,204 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 02:04:24,199 INFO spawned: 'laravel-worker_01' with pid 9
+2024-01-12 02:04:24,212 INFO spawned: 'laravel-worker_02' with pid 10
+2024-01-12 02:04:24,220 INFO spawned: 'laravel-worker_03' with pid 11
+2024-01-12 02:04:24,224 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 02:04:24,229 INFO spawned: 'laravel-worker_04' with pid 12
+2024-01-12 02:04:24,234 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 02:04:24,241 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 02:04:24,241 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,241 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,242 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,242 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,242 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,243 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,244 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,244 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,241 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 02:04:24,246 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,249 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,249 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,250 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,250 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,250 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,251 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,251 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,251 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,238 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 02:04:24,244 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,257 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,241 INFO spawned: 'laravel-worker_05' with pid 13
+2024-01-12 02:04:24,252 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:24,268 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 02:04:24,291 INFO supervisord started with pid 1
+2024-01-12 02:04:24,291 INFO supervisord started with pid 1
+2024-01-12 02:04:24,294 INFO spawned: 'laravel-worker_06' with pid 14
+2024-01-12 02:04:24,325 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 02:04:24,371 INFO spawned: 'laravel-worker_07' with pid 15
+2024-01-12 02:04:24,378 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 02:04:24,412 INFO spawned: 'laravel-worker_08' with pid 16
+2024-01-12 02:04:24,444 INFO spawned: 'laravel-worker_09' with pid 17
+2024-01-12 02:04:24,449 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 02:04:24,453 INFO spawned: 'php-fpm' with pid 18
+2024-01-12 02:04:24,461 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 02:04:24,568 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 02:04:24,577 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 02:04:24,605 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 02:04:24,588 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 02:04:24,615 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 02:04:24,625 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 02:04:24,636 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 02:04:24,646 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 02:04:24,649 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 02:04:24,652 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 02:04:24,657 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 02:04:24,763 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 02:04:24,769 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 02:04:24,744 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 02:04:24,843 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 02:04:24,931 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 02:04:24,777 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 02:04:24,958 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 02:04:25,030 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 02:04:25,064 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 02:04:25,075 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 02:04:25,140 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 02:04:25,140 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,140 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,141 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,141 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,141 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,141 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,146 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,147 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,150 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,154 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,160 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 02:04:25,178 INFO supervisord started with pid 1
+2024-01-12 02:04:25,238 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 02:04:25,240 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,240 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,243 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,243 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,245 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,246 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,250 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,250 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,250 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,257 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,328 INFO spawned: 'laravel-worker_00' with pid 6
+2024-01-12 02:04:25,337 INFO spawned: 'laravel-worker_01' with pid 7
+2024-01-12 02:04:25,333 INFO spawned: 'laravel-worker_00' with pid 6
+2024-01-12 02:04:25,345 INFO spawned: 'laravel-worker_02' with pid 8
+2024-01-12 02:04:25,345 INFO spawned: 'laravel-worker_01' with pid 7
+2024-01-12 02:04:25,355 INFO spawned: 'laravel-worker_02' with pid 8
+2024-01-12 02:04:25,359 INFO supervisord started with pid 1
+2024-01-12 02:04:25,365 INFO spawned: 'laravel-worker_03' with pid 9
+2024-01-12 02:04:25,399 INFO spawned: 'laravel-worker_03' with pid 9
+2024-01-12 02:04:25,402 INFO spawned: 'laravel-worker_04' with pid 10
+2024-01-12 02:04:25,408 INFO spawned: 'laravel-worker_05' with pid 11
+2024-01-12 02:04:25,410 INFO spawned: 'laravel-worker_06' with pid 12
+2024-01-12 02:04:25,411 INFO spawned: 'laravel-worker_07' with pid 13
+2024-01-12 02:04:25,373 INFO spawned: 'laravel-worker_04' with pid 10
+2024-01-12 02:04:25,507 INFO spawned: 'laravel-worker_08' with pid 14
+2024-01-12 02:04:25,522 INFO spawned: 'laravel-worker_05' with pid 11
+2024-01-12 02:04:25,525 INFO spawned: 'laravel-worker_06' with pid 12
+2024-01-12 02:04:25,528 INFO spawned: 'laravel-worker_07' with pid 13
+2024-01-12 02:04:25,532 INFO spawned: 'laravel-worker_08' with pid 14
+2024-01-12 02:04:25,564 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,567 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,569 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,571 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,572 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,573 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,576 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,581 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,583 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,592 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,595 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,593 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,599 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,606 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,608 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,609 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,604 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,613 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,604 INFO spawned: 'laravel-worker_09' with pid 15
+2024-01-12 02:04:25,609 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,622 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,630 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,622 INFO spawned: 'laravel-worker_09' with pid 15
+2024-01-12 02:04:25,650 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,723 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 02:04:25,738 INFO spawned: 'php-fpm' with pid 16
+2024-01-12 02:04:25,723 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:25,731 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,774 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,776 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,777 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,777 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,777 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,777 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,777 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,778 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,778 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,702 INFO spawned: 'php-fpm' with pid 16
+2024-01-12 02:04:25,811 INFO supervisord started with pid 1
+2024-01-12 02:04:25,838 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-01-12 02:04:25,839 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,840 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,840 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,840 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,841 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,841 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,841 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,841 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,841 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,842 WARN For [program:laravel-worker], AUTO logging used for stderr_logfile without rollover, set maxbytes > 0 to avoid filling up filesystem unintentionally
+2024-01-12 02:04:25,858 INFO supervisord started with pid 1
+2024-01-12 02:04:26,184 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 02:04:26,189 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 02:04:26,193 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 02:04:26,199 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 02:04:26,205 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 02:04:26,248 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 02:04:26,370 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 02:04:26,364 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 02:04:26,373 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 02:04:26,442 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,457 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,457 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,458 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,458 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,458 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,468 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 02:04:26,557 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 02:04:26,476 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,563 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 02:04:26,450 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 02:04:26,574 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,663 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,663 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,663 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,581 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 02:04:26,676 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 02:04:26,589 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,706 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,668 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 02:04:26,740 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 02:04:26,716 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,770 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,750 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 02:04:26,766 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 02:04:26,771 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,823 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,826 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 02:04:26,857 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,807 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 02:04:26,867 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 02:04:26,846 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 02:04:26,857 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,910 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,911 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:26,870 INFO spawned: 'laravel-worker_00' with pid 7
+2024-01-12 02:04:26,872 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 02:04:26,981 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 02:04:27,049 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 02:04:26,957 INFO spawned: 'laravel-worker_01' with pid 8
+2024-01-12 02:04:27,053 INFO spawned: 'laravel-worker_02' with pid 9
+2024-01-12 02:04:27,044 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,106 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,106 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,111 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,140 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,150 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 02:04:27,144 INFO spawned: 'laravel-worker_03' with pid 10
+2024-01-12 02:04:27,164 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,231 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,186 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,232 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,232 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,233 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,237 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,238 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,239 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,239 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,242 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,244 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,194 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,315 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,315 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,315 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,229 INFO spawned: 'laravel-worker_04' with pid 11
+2024-01-12 02:04:27,232 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,340 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,340 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,340 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,245 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 02:04:27,348 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 02:04:27,350 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 02:04:27,275 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,319 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,387 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,388 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,378 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 02:04:27,355 INFO spawned: 'laravel-worker_05' with pid 12
+2024-01-12 02:04:27,467 INFO spawned: 'laravel-worker_06' with pid 13
+2024-01-12 02:04:27,477 INFO spawned: 'laravel-worker_07' with pid 14
+2024-01-12 02:04:27,479 INFO spawned: 'laravel-worker_08' with pid 15
+2024-01-12 02:04:27,405 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,534 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,534 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:27,641 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 02:04:27,652 INFO spawned: 'laravel-worker_09' with pid 16
+2024-01-12 02:04:27,655 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 02:04:27,767 INFO spawned: 'php-fpm' with pid 17
+2024-01-12 02:04:28,406 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,413 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,421 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,424 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,493 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,495 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,495 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,495 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,496 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,496 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,498 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,499 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,505 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,517 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,537 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,539 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,539 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,539 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,540 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,540 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,540 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,541 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,546 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,574 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,577 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,577 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,587 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,606 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,617 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,649 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,650 INFO success: laravel-worker_08 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,650 INFO success: laravel-worker_09 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,721 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-01-12 02:04:28,752 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
