@@ -1,3 +1,5 @@
+NOTE! Before Starting over... PLEASE DELETE SRC directory first
+
 # docker-laravel
 
 docker-laravel setup
