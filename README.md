@@ -1,4 +1,4 @@
-NOTE! Before Starting over... PLEASE DELETE SRC directory first
+NOTE! Before Starting over... PLEASE DELETE SRC directory and the .gitignore file first
 
 # docker-laravel
 
