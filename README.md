@@ -1,3 +1,5 @@
+NOTE: BEFORE STARTING OVER. Please remove .gitigonore file
+
 # docker-laravel
 
 docker-laravel setup
