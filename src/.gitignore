@@ -6,7 +6,6 @@
 /storage/*.key
 /vendor
 .env
-.env.dusk.local
 .env.backup
 .env.production
 .phpunit.result.cache
@@ -18,16 +17,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-supervisord.log
-supervisord.pid
-/storage/oauth-*
-sonarcube.json
-/.scannerwork
-clover-coverage.xml
-cobertura-coverage.xml
-phpunit.cov.txt
-phpunit-junit.xml
-phpunit.dusk.xml
-phpunit.xml
-
-
